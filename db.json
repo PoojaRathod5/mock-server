@@ -1,23 +1,18 @@
 {
-    "sunglasses" : [
-          {
-          "id": 81,
-          "title": "Round Silver Frame Sun Glasses",
-          "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
-          "price": 19,
-          "discountPercentage": 10.1,
-          "rating": 4.94,
-          "stock": 78,
-          "brand": "Designer Sun Glasses",
-          "category": "sunglasses",
-          "thumbnail": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp",
-          "images": [
-          "https://i.dummyjson.com/data/products/81/1.jpg",
-          "https://i.dummyjson.com/data/products/81/2.jpg",
-          "https://i.dummyjson.com/data/products/81/3.jpg",
-          "https://i.dummyjson.com/data/products/81/4.webp",
-          "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
-          ]
-        }
-    ]
+    "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
+  ]
 }
